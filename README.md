@@ -1,3 +1,3 @@
-# My letcode solutions
+# My leetcode solutions
 
-Here is my letcode solutions
+Here is my leetcode solutions
